@@ -1,7 +1,7 @@
 # Criando e modelando um Banco de Dados do zero de uma Oficina:
 
 ### Objetivo:
-Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
 
 ## Narrativa:
@@ -24,7 +24,3 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 ## Respostas do Desafio
 
 ![Desafio_db](https://github.com/user-attachments/assets/101cc9c3-b674-447a-8196-d52e6e396b85)
-
-
-## Certificado do Projeto
-[Cebtificado_construindo_BDconceitual.pdf](https://github.com/user-attachments/files/18171442/Cebtificado_construindo_BDconceitual.pdf)
