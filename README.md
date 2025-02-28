@@ -1,13 +1,5 @@
 # Criando e modelando um Banco de Dados do zero de uma Oficina:
 
-#### Projeto proposto no Bootcamp [Suzano - Análise de Dados com Power BI](https://www.dio.me/bootcamp/coding-future-suzano-analise-dados) na plataforma [DIO.](https://www.dio.me/)
-
-### Descrição do Desafio
-Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos. Caso encontre algo que não foi definido na narrativa, utilize a sua compreensão do contexto e deixe uma descrição no README do seu github. para verificação.
-
-Instrutora: *Juliana Mascarenhas*
-</b>
-
 ### Objetivo:
 Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
 
